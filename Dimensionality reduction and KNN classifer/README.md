@@ -13,9 +13,7 @@
 ---
 ### Part B: Standardization
 - Applied **Standardization**:  
-  $$
-  x_{new} = \frac{x - \mu}{\sigma}
-  $$
+ x_new = (x - μ) / σ
 ---
 
 ### Part C: Principal Component Analysis (PCA)
