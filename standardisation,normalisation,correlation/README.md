@@ -5,8 +5,6 @@
 This dataset contains sensor readings (temperature, humidity, pressure, rain, etc.) collected from 10 locations in the Mandi district, Himachal Pradesh.
 
 ---
-
-## Problem Statement 1 (Compulsory)
 ### 1. Outlier Detection
 - Identified **outliers** using the IQR method:  
   \[
