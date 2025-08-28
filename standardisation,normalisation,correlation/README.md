@@ -32,9 +32,9 @@ This dataset contains sensor readings (temperature, humidity, pressure, rain, et
   - Repeated the same using **Scikit-learn (`MinMaxScaler`)**.  
 - Performed **Standardization**:
   - Applied formula:  
-    \[
-    x_{new} = \frac{x - \mu}{\sigma}
-    \]  
+    $$
+x_{new} = \frac{x - \mu}{\sigma}
+$$ 
   - Repeated using **Scikit-learn (`StandardScaler`)**.  
 - Compared correlation results between **raw**, **normalized**, and **standardized** datasets.  
 
