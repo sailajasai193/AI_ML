@@ -43,11 +43,3 @@ This dataset contains sensor readings (temperature, humidity, pressure, rain, et
 ## Tools & Libraries Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Scikit-learn (for normalization & standardization)  
-
----
-
-## Outputs
-- **Outlier-corrected file:** `landslide_data_corrected.csv`  
-- Normalized datasets (0–1, 0–20 ranges)  
-- Standardized dataset  
-- Multiple plots for data analysis  
