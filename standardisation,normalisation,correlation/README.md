@@ -34,7 +34,7 @@ This dataset contains sensor readings (temperature, humidity, pressure, rain, et
   - Applied formula:  
     $$
 x_{new} = \frac{x - \mu}{\sigma}
-$$ 
+$$
   - Repeated using **Scikit-learn (`StandardScaler`)**.  
 - Compared correlation results between **raw**, **normalized**, and **standardized** datasets.  
 
