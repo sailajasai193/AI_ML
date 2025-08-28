@@ -1,7 +1,7 @@
 #  Regression with Single Input Variable  
 
 
-## 📌 Problem Statement
+##Problem Statement
 Given the dataset **AirQuality.csv** containing various air pollution indicators, the task is to **predict CO concentration (mg/m³)** using regression models with **only one input feature**:  
 - `PT08.S1(CO)` → Tin oxide sensor response (nominally CO targeted).  
 
